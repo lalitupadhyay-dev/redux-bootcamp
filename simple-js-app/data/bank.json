@@ -1,0 +1,64 @@
+{
+  "account": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "balance": 3000,
+      "accountNo": 3676376893
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "balance": 7450,
+      "accountNo": 4823917650
+    },
+    {
+      "id": 3,
+      "name": "Carol",
+      "balance": 1200,
+      "accountNo": 9134056782
+    },
+    {
+      "id": 4,
+      "name": "David",
+      "balance": 54300,
+      "accountNo": 6057291834
+    },
+    {
+      "id": 5,
+      "name": "Emma",
+      "balance": 800,
+      "accountNo": 7743829016
+    },
+    {
+      "id": 6,
+      "name": "Frank",
+      "balance": 12900,
+      "accountNo": 3318476520
+    },
+    {
+      "id": 7,
+      "name": "Grace",
+      "balance": 4750,
+      "accountNo": 8862053947
+    },
+    {
+      "id": 8,
+      "name": "Henry",
+      "balance": 23100,
+      "accountNo": 5591384076
+    },
+    {
+      "id": 9,
+      "name": "Isabella",
+      "balance": 650,
+      "accountNo": 2204867319
+    },
+    {
+      "id": 10,
+      "name": "James",
+      "balance": 9875,
+      "accountNo": 7730154682
+    }
+  ]
+}
