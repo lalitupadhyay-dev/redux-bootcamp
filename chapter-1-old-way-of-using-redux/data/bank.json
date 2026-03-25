@@ -60,5 +60,17 @@
       "balance": 9875,
       "accountNo": 7730154682
     }
+  ],
+  "fdAccount": [
+    {
+      "id": 1,
+      "balance": 30000,
+      "accountNo": "dkfsdlfslfsf"
+    },
+    {
+      "id": 2,
+      "balance": 100000,
+      "accountNo": "skdfjsdfjlskdfjlsd"
+    }
   ]
 }
